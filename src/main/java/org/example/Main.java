@@ -30,7 +30,7 @@ public class Main {
                     System.out.print("Tên: ");
                     String name = sc.nextLine();
 
-                    System.out.print("Giá: ");
+                    System.out.print(" Giá:   ");
                     double price = sc.nextDouble();
                     sc.nextLine();
 
